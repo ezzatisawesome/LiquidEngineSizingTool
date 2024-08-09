@@ -9,7 +9,7 @@ import matplotlib.path as mpath
 
 sys.path.append('../')
 from GeneralTools import propellant
-import NozzleSizer
+from InitialSizing import NozzleSizer
 
 # Define constants
 gas_constant = 8314.46261815324

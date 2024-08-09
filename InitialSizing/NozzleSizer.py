@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-import BellNozzleParameters
+from InitialSizing import BellNozzleParameters
 
 
 # Nozzle types: https://www.researchgate.net/figure/Parabolic-nozzles-e-a-Rao-nozzle-b-Modified-Rao-nozzle-c-Dual-Bell-nozzle-d_fig4_331321763
